@@ -8,6 +8,7 @@
 # Don't Ignore These SubDirectories
 !/gamedata/
 !/appdata/
+!/MyMods/
 
 # Ignore These SubSubDirectories
 /appdata/logs/*

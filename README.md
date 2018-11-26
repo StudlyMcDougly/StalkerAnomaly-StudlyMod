@@ -9,6 +9,7 @@ Requires:<br/>
 *11/25/2018*<br/>
 Initial Commit (Version 1.4.0)<br/>
 Added S.T.A.L.K.E.R. ANOMALY: ENGLISH VOICES<br/>
+Added No Ammo on HUD<br/>
 
 ## Installation
 1. Download S.T.A.L.K.E.R.: Anomaly Repack 1.3.1 Part 1  and 2,  Update 1.3.3, Update 1.4.0.
@@ -21,9 +22,13 @@ Added S.T.A.L.K.E.R. ANOMALY: ENGLISH VOICES<br/>
 *Adds some voices to English*<br/>
 
 ## My Mods
-Nothing Yet<br/>
+**No Ammo on HUD**<br/>
+*Removes the Ammo count from the HUD (Ported from Last Day. Sets Ammo X coordinate to negative value)*<br/>
+`gamedata\configs\ui\maingame.xml`<br/>
+`gamedata\configs\ui\maingame_16.xml`<br/>
+<br/>
 
 ## TODO
-- [ ] HUD Remove Ammo Count (Port from Last Day)
+- [X] HUD Remove Ammo Count (Port from Last Day)
 - [ ] HUD Neutral crosshair (like Last Day) so it is only a dot. OR remove all crosshairs (without in game option so NPC identification still works)
 - [ ] Add in more English Voices
