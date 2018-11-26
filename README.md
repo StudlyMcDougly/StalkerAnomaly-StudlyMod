@@ -10,6 +10,7 @@ Requires:<br/>
 Initial Commit (Version 1.4.0)<br/>
 Added S.T.A.L.K.E.R. ANOMALY: ENGLISH VOICES<br/>
 Added No Ammo on HUD<br/>
+Added No Neutral Crosshair<br/>
 
 ## Installation
 1. Download S.T.A.L.K.E.R.: Anomaly Repack 1.3.1 Part 1  and 2,  Update 1.3.3, Update 1.4.0.
@@ -27,8 +28,17 @@ Added No Ammo on HUD<br/>
 `gamedata\configs\ui\maingame.xml`<br/>
 `gamedata\configs\ui\maingame_16.xml`<br/>
 <br/>
+**No Neutral Crosshair**<br/>
+*Removes the crosshair when you are at neutral (no weapon etc out). Stock has a big ugly circle. Replaced with texture from Last Day which is a small X*<br/>
+'gamedata\textures\ui\cursor.dds'<br/>
+'gamedata\textures\ui\cursor.thm'<br/>
+
+<br/>
 
 ## TODO
 - [X] HUD Remove Ammo Count (Port from Last Day)
-- [ ] HUD Neutral crosshair (like Last Day) so it is only a dot. OR remove all crosshairs (without in game option so NPC identification still works)
-- [ ] Add in more English Voices
+- [X] HUD Neutral crosshair (like Last Day) so it is only a dot.
+- [ ] Add in more English Voices.
+- [ ] "Lost to the Zone" Message on death (Maybe).
+- [ ] Remove Aurora Borealis effect when close to death.
+- [ ] Remove all crosshairs (different from disable. Disabling removed NPC identification).
