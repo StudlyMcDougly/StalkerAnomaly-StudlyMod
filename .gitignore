@@ -4,5 +4,6 @@
 /appdata/shaders_cache/*
 !/gamedata/
 !/appdata/
+/appdata/tmp.ltx
 !.gitignore
 !Readme.md

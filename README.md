@@ -24,5 +24,6 @@ Added S.T.A.L.K.E.R. ANOMALY: ENGLISH VOICES<br/>
 Nothing Yet<br/>
 
 ## TODO
-- [x] Make a TODO List
-- [ ] Fill out TODO List
+- [ ] HUD Remove Ammo Count (Port from Last Day)
+- [ ] HUD Neutral crosshair (like Last Day) so it is only a dot. OR remove all crosshairs (without in game option so NPC identification still works)
+- [ ] Add in more English Voices
