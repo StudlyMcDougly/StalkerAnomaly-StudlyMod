@@ -8,6 +8,7 @@ Requires:<br/>
 ## Updates
 *11/25/2018*<br/>
 Initial Commit (Version 1.4.0)<br/>
+Added S.T.A.L.K.E.R. ANOMALY: ENGLISH VOICES<br/>
 
 ## Installation
 1. Download S.T.A.L.K.E.R.: Anomaly Repack 1.3.1 Part 1  and 2,  Update 1.3.3, Update 1.4.0.
@@ -15,7 +16,9 @@ Initial Commit (Version 1.4.0)<br/>
 3. Download and unzip this mod into the install folder, overwriting old files with the new versions.
 
 ## Mods
-Nothing Yet<br/>
+**_[S.T.A.L.K.E.R. ANOMALY: ENGLISH VOICES](https://www.moddb.com/mods/stalker-anomaly/addons/english-voices)_**<br/>
+(Ver: 9/7/2018)<br/>
+*Adds some voices to English*<br/>
 
 ## My Mods
 Nothing Yet<br/>
