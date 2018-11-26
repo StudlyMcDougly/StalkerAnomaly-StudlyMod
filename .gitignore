@@ -1,9 +1,18 @@
+# Ignore Everything In This Folder And Below
 /*
+
+# Don't ignore our Git stuff
+!.gitignore
+!Readme.md
+
+# Don't Ignore These SubDirectories
+!/gamedata/
+!/appdata/
+
+# Ignore These SubSubDirectories
 /appdata/logs/*
 /appdata/savedgames/*
 /appdata/shaders_cache/*
-!/gamedata/
-!/appdata/
+
+#Ignore These Particular Files
 /appdata/tmp.ltx
-!.gitignore
-!Readme.md
