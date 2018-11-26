@@ -1,4 +1,7 @@
 /*
+/appdata/logs/*
+/appdata/savedgames/*
+/appdata/shaders_cache/*
 !/gamedata/
 !/appdata/
 !.gitignore
