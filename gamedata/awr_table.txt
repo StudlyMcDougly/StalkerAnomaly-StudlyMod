@@ -1,0 +1,10562 @@
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Save
+{
+
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Save
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Load
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Save
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Save
+{
+
+	["25601_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	}
+
+}
+
+-- On Save
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	},
+	["25601_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["25601_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ak74_rusty25550'
+	},
+	["25601_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["25601_flags"] =
+	{
+	}
+
+}
+
+-- On Save
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_tiski25602'
+	},
+	["25601_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74_rusty25550"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 110,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 29
+			},
+			["condition"] = 0.76,
+			["wpn_name"] = 'wpn_ak74_rusty22141',
+			["id"] = 22141
+		}
+	},
+	["25601_flags"] =
+	{
+	}
+
+}
+
+-- On Remove Value
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_tiski25602'
+	},
+	["25601_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+	},
+	["25601_flags"] =
+	{
+	}
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Save
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	}
+
+}
+
+-- On Save
+{
+
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	},
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	}
+
+}
+
+-- On Save
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Load
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Save
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Load
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Load
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Load
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Load
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Load
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Load
+{
+
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Save
+{
+
+	["26880_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Save
+{
+
+	["26880_flags"] =
+	{
+	},
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["26880_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Load
+{
+
+	["26880_flags"] =
+	{
+	},
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["26880_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_m_wpn_ak74u26368'
+	}
+
+}
+
+-- On Save
+{
+
+	["26880_flags"] =
+	{
+	},
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["26880_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak74u26368"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 970,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 1
+			},
+			["condition"] = 0.3,
+			["wpn_name"] = 'wpn_ak74u21064',
+			["id"] = 21064
+		}
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_tiski26881'
+	}
+
+}
+
+-- On Remove Value
+{
+
+	["26880_flags"] =
+	{
+	},
+	["val_awr_tiski_01"] =
+	{
+		[1] = 'val_smart_terrain_7_3_bandit_mechanic_stalker',
+		[2] = '1.57',
+		[3] = 'dead'
+	},
+	["26880_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+	},
+	["compare_name"] =
+	{
+		["val_awr_tiski_01"] = 'awr_tiski26881'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Save
+{
+
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Save
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Load
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Save
+{
+
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Load
+{
+
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Load
+{
+
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Load
+{
+
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Load
+{
+
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Load
+{
+
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Load
+{
+
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Save
+{
+
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	}
+
+}
+
+-- On Save
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_l85_worn26183'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Save
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_tiski26369'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_l85_worn26183"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 590,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 24
+			},
+			["condition"] = 0.75,
+			["wpn_name"] = 'wpn_l85_worn21979',
+			["id"] = 21979
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Remove Value
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_tiski26369'
+	},
+	["wpn_data"] =
+	{
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_tiski26369'
+	},
+	["wpn_data"] =
+	{
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_tiski26369'
+	},
+	["wpn_data"] =
+	{
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_tiski26369'
+	},
+	["wpn_data"] =
+	{
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_tiski26369'
+	},
+	["wpn_data"] =
+	{
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Save
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Save
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Save
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["26368_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["mil_awr_tiski_01"] =
+	{
+		[1] = 'mil_smart_terrain_7_7_freedom_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["mil_awr_tiski_01"] = 'awr_m_wpn_ak7426625'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ak7426625"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 30,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 37
+			},
+			["condition"] = 0.15,
+			["wpn_name"] = 'mil_wpn_ak74_0001',
+			["id"] = 15327
+		}
+	},
+	["26368_flags"] =
+	{
+	}
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Save
+{
+
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Save
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Load
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Save
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Save
+{
+
+	["26115_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	}
+
+}
+
+-- On Save
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	},
+	["26115_flags"] =
+	{
+	},
+	["26115_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_m_wpn_ppsh41_redworn25092'
+	},
+	["26115_flags"] =
+	{
+	},
+	["26115_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	}
+
+}
+
+-- On Save
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_tiski26117'
+	},
+	["26115_flags"] =
+	{
+	},
+	["26115_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ppsh41_redworn25092"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 350,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 50
+			},
+			["condition"] = 0.85,
+			["wpn_name"] = 'wpn_ppsh41_redworn22124',
+			["id"] = 22124
+		}
+	}
+
+}
+
+-- On Remove Value
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_tiski26117'
+	},
+	["26115_flags"] =
+	{
+	},
+	["26115_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+	}
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Save
+{
+
+	["jup_awr_tiski_02"] =
+	{
+		[1] = 'mechanic_monolith_jup_depo',
+		[2] = '3.14',
+		[3] = 'dead'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Save
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Save
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Load
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Save
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Save
+{
+
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	}
+
+}
+
+-- On Save
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn24835'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Save
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25090'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn24835"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 730,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 39
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn21978',
+			["id"] = 21978
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Remove Value
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25090'
+	},
+	["wpn_data"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25090'
+	},
+	["wpn_data"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25090'
+	},
+	["wpn_data"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25090'
+	},
+	["wpn_data"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25090'
+	},
+	["wpn_data"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Save
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Save
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Save
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["25089_flags"] =
+	{
+	},
+	["25089_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Load
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Save
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	}
+
+}
+
+-- On Save
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25344'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Save
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25601'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25344"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 950,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 40
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25089',
+			["id"] = 25089
+		}
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Remove Value
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25601'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25601'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25601'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25601'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25601'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski25601'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Save
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Save
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Save
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Load
+{
+
+	["25600_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	},
+	["25600_flags"] =
+	{
+	}
+
+}
+
+-- On Remove Unused
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	}
+
+}
+
+-- On Load
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	}
+
+}
+
+-- On Load
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	}
+
+}
+
+-- On Load
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	}
+
+}
+
+-- On Load
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	}
+
+}
+
+-- On Save
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["26112_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	}
+
+}
+
+-- On Save
+{
+
+	["26112_flags"] =
+	{
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["26112_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	}
+
+}
+
+-- On Load
+{
+
+	["26112_flags"] =
+	{
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_ump45_worn25859'
+	},
+	["26112_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	}
+
+}
+
+-- On Save
+{
+
+	["26112_flags"] =
+	{
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski26115'
+	},
+	["26112_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_ump45_worn25859"] =
+		{
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 360,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 0
+			},
+			["condition"] = 0.8,
+			["wpn_name"] = 'wpn_ump45_worn25600',
+			["id"] = 25600
+		}
+	}
+
+}
+
+-- On Remove Value
+{
+
+	["26112_flags"] =
+	{
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski26115'
+	},
+	["26112_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	}
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+{
+
+	["addon_flags"] = 0,
+	["upgrades"] =
+	{
+	},
+	["ammo_type"] = 0,
+	["story_id"] = -1,
+	["condition"] = 0.99999958276749,
+	["distance"] = 0,
+	["visual_name"] = 'dynamics\weapons\wpn_9a91\wpn_9a91',
+	["game_vertex_id"] = 2391,
+	["visual_flags"] = 0,
+	["ammo_elapsed"] = 0,
+	["ammo_current"] = 90,
+	["custom_data"] = '',
+	["weapon_state"] = 0,
+	["level_vertex_id"] = 112192,
+	["xz1"] = 0,
+	["object_flags"] = -65,
+	["direct_control"] = 1,
+	["spawn_story_id"] = -1
+
+}
+
+-- On Save
+{
+
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Save
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Load
+{
+
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Save
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Load
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Save
+{
+
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["29184_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	}
+
+}
+
+-- On Save
+{
+
+	["29184_flags"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	},
+	["29184_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	}
+
+}
+
+-- On Load
+{
+
+	["29184_flags"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_m_wpn_9a9128672'
+	},
+	["29184_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	}
+
+}
+
+-- On Save
+{
+
+	["29184_flags"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski29185'
+	},
+	["29184_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+		["awr_m_wpn_9a9128672"] =
+		{
+			["condition"] = 1,
+			["upgrades"] =
+			{
+			},
+			["id"] = 28418,
+			["time"] =
+			{
+				["m"] = 10,
+				["ms"] = 20,
+				["d"] = 25,
+				["h"] = 9,
+				["y"] = 15,
+				["s"] = 28
+			},
+			["wpn_name"] = 'wpn_9a9128418',
+			["wpn_sect"] = 'wpn_9a91'
+		}
+	}
+
+}
+
+-- On Remove Value
+{
+
+	["29184_flags"] =
+	{
+	},
+	["cit_awr_tiski_01"] =
+	{
+		[1] = 'cit_killers_merc_mechanic_stalker',
+		[2] = '3.14',
+		[3] = 'alive'
+	},
+	["compare_name"] =
+	{
+		["cit_awr_tiski_01"] = 'awr_tiski29185'
+	},
+	["29184_upg"] =
+	{
+		["b_t"] = 1,
+		["bc_t"] = 1,
+		["gt_t"] = 1,
+		["tc_t"] = 1,
+		["br_t"] = 1
+	},
+	["wpn_data"] =
+	{
+	}
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+-- On Remove Unused
+{
+
+
+}
+
+{
+
+	[1] = 'adrenalin',
+	[2] = 'adrenalin_use',
+	[3] = 'akvatab',
+	[4] = 'akvatab_2',
+	[5] = 'akvatab_2_use',
+	[6] = 'akvatab_3',
+	[7] = 'akvatab_3_use',
+	[8] = 'akvatab_use',
+	[9] = 'analgetic',
+	[10] = 'antibio_chlor',
+	[11] = 'antibio_sulfad',
+	[12] = 'antibio_sulfad_1',
+	[13] = 'antibio_sulfad_2',
+	[14] = 'antiemetic',
+	[15] = 'antiemetic_1',
+	[16] = 'antirad',
+	[17] = 'antirad_cystamine',
+	[18] = 'antirad_kalium',
+	[19] = 'antirad_kalium_1',
+	[20] = 'antirad_kalium_1_use',
+	[21] = 'antirad_kalium_2',
+	[22] = 'antirad_kalium_2_use',
+	[23] = 'antirad_kalium_3',
+	[24] = 'antirad_kalium_3_use',
+	[25] = 'antirad_kalium_use',
+	[26] = 'antirad_use',
+	[27] = 'bandage',
+	[28] = 'bandage_use',
+	[29] = 'beans',
+	[30] = 'beans_opened',
+	[31] = 'beer',
+	[32] = 'beer_use',
+	[33] = 'bottle_metal',
+	[34] = 'bottle_metal_2',
+	[35] = 'bottle_metal_2_use',
+	[36] = 'bottle_metal_3',
+	[37] = 'bottle_metal_3_use',
+	[38] = 'bottle_metal_use',
+	[39] = 'bread',
+	[40] = 'breadold',
+	[41] = 'caffeine',
+	[42] = 'caffeine_2',
+	[43] = 'caffeine_2_use',
+	[44] = 'caffeine_3',
+	[45] = 'caffeine_3_use',
+	[46] = 'caffeine_4',
+	[47] = 'caffeine_4_use',
+	[48] = 'caffeine_5',
+	[49] = 'caffeine_5_use',
+	[50] = 'caffeine_use',
+	[51] = 'chili',
+	[52] = 'chili_opened',
+	[53] = 'chocolate',
+	[54] = 'chocolate_p',
+	[55] = 'cigar',
+	[56] = 'cigar1',
+	[57] = 'cigar1_2',
+	[58] = 'cigar1_2_smoke',
+	[59] = 'cigar1_3',
+	[60] = 'cigar1_3_smoke',
+	[61] = 'cigar1_smoke',
+	[62] = 'cigar2',
+	[63] = 'cigar2_2',
+	[64] = 'cigar2_2_smoke',
+	[65] = 'cigar2_3',
+	[66] = 'cigar2_3_smoke',
+	[67] = 'cigar2_smoke',
+	[68] = 'cigar3',
+	[69] = 'cigar3_2',
+	[70] = 'cigar3_2_smoke',
+	[71] = 'cigar3_3',
+	[72] = 'cigar3_3_smoke',
+	[73] = 'cigar3_smoke',
+	[74] = 'cigar_smoke',
+	[75] = 'cigarettes',
+	[76] = 'cigarettes_2',
+	[77] = 'cigarettes_2_smoke',
+	[78] = 'cigarettes_3',
+	[79] = 'cigarettes_3_smoke',
+	[80] = 'cigarettes_lucky',
+	[81] = 'cigarettes_lucky_2',
+	[82] = 'cigarettes_lucky_2_smoke',
+	[83] = 'cigarettes_lucky_3',
+	[84] = 'cigarettes_lucky_3_smoke',
+	[85] = 'cigarettes_lucky_smoke',
+	[86] = 'cigarettes_russian',
+	[87] = 'cigarettes_russian_2',
+	[88] = 'cigarettes_russian_2_smoke',
+	[89] = 'cigarettes_russian_3',
+	[90] = 'cigarettes_russian_3_smoke',
+	[91] = 'cigarettes_russian_smoke',
+	[92] = 'cigarettes_smoke',
+	[93] = 'cocaine',
+	[94] = 'cocaine_use',
+	[95] = 'conserva',
+	[96] = 'conserva_opened',
+	[97] = 'corn',
+	[98] = 'corn_opened',
+	[99] = 'drink_crow',
+	[100] = 'drink_crow_use',
+	[101] = 'drug_anabiotic',
+	[102] = 'drug_antidot',
+	[103] = 'drug_antidot_2',
+	[104] = 'drug_antidot_3',
+	[105] = 'drug_booster',
+	[106] = 'drug_booster_use',
+	[107] = 'drug_coagulant',
+	[108] = 'drug_coagulant_2',
+	[109] = 'drug_coagulant_3',
+	[110] = 'drug_coagulant_4',
+	[111] = 'drug_coagulant_5',
+	[112] = 'drug_psy_blockade',
+	[113] = 'drug_psy_blockade_2',
+	[114] = 'drug_psy_blockade_2_use',
+	[115] = 'drug_psy_blockade_3',
+	[116] = 'drug_psy_blockade_3_use',
+	[117] = 'drug_psy_blockade_4',
+	[118] = 'drug_psy_blockade_4_use',
+	[119] = 'drug_psy_blockade_5',
+	[120] = 'drug_psy_blockade_5_use',
+	[121] = 'drug_psy_blockade_use',
+	[122] = 'drug_radioprotector',
+	[123] = 'drug_radioprotector_2',
+	[124] = 'drug_sleepingpills',
+	[125] = 'drug_sleepingpills_2',
+	[126] = 'drug_sleepingpills_3',
+	[127] = 'drug_sleepingpills_4',
+	[128] = 'drug_sleepingpills_5',
+	[129] = 'energy_drink',
+	[130] = 'energy_drink_use',
+	[131] = 'flask',
+	[132] = 'flask_2',
+	[133] = 'flask_2_use',
+	[134] = 'flask_3',
+	[135] = 'flask_3_use',
+	[136] = 'flask_use',
+	[137] = 'glucose',
+	[138] = 'glucose_s',
+	[139] = 'hand_rolling_tobacco',
+	[140] = 'hand_rolling_tobacco_2',
+	[141] = 'hand_rolling_tobacco_2_smoke',
+	[142] = 'hand_rolling_tobacco_3',
+	[143] = 'hand_rolling_tobacco_3_smoke',
+	[144] = 'hand_rolling_tobacco_smoke',
+	[145] = 'jgut',
+	[146] = 'jgut_use',
+	[147] = 'joint',
+	[148] = 'joint_smoke',
+	[149] = 'kolbasa',
+	[150] = 'marijuana',
+	[151] = 'marijuana_smoke',
+	[152] = 'medkit',
+	[153] = 'medkit_ai1',
+	[154] = 'medkit_ai2',
+	[155] = 'medkit_ai3',
+	[156] = 'medkit_army',
+	[157] = 'medkit_scientic',
+	[158] = 'medkit_script',
+	[159] = 'mineral_water',
+	[160] = 'mineral_water_2',
+	[161] = 'mineral_water_2_use',
+	[162] = 'mineral_water_3',
+	[163] = 'mineral_water_3_use',
+	[164] = 'mineral_water_use',
+	[165] = 'mint',
+	[166] = 'mint_2',
+	[167] = 'mint_2_use',
+	[168] = 'mint_3',
+	[169] = 'mint_3_use',
+	[170] = 'mint_use',
+	[171] = 'morphine',
+	[172] = 'mre',
+	[173] = 'mre_2',
+	[174] = 'mre_3',
+	[175] = 'nuts',
+	[176] = 'protein',
+	[177] = 'raisins',
+	[178] = 'ration_ru',
+	[179] = 'ration_ru_2',
+	[180] = 'ration_ru_3',
+	[181] = 'ration_ru_4',
+	[182] = 'ration_ru_5',
+	[183] = 'ration_ru_6',
+	[184] = 'ration_ru_7',
+	[185] = 'ration_ukr',
+	[186] = 'ration_ukr_2',
+	[187] = 'ration_ukr_3',
+	[188] = 'ration_ukr_4',
+	[189] = 'ration_ukr_5',
+	[190] = 'ration_ukr_6',
+	[191] = 'rebirth',
+	[192] = 'rebirth_use',
+	[193] = 'salicidic_acid',
+	[194] = 'salmon',
+	[195] = 'sausage',
+	[196] = 'stimpack',
+	[197] = 'stimpack_army',
+	[198] = 'stimpack_scientic',
+	[199] = 'survival_kit',
+	[200] = 'tea',
+	[201] = 'tea_2',
+	[202] = 'tea_2_use',
+	[203] = 'tea_3',
+	[204] = 'tea_3_use',
+	[205] = 'tea_use',
+	[206] = 'tetanus',
+	[207] = 'tobacco',
+	[208] = 'tobacco2_smoke',
+	[209] = 'tobacco3_smoke',
+	[210] = 'tobacco_2',
+	[211] = 'tobacco_3',
+	[212] = 'tobacco_smoke',
+	[213] = 'tomato',
+	[214] = 'tomato_opened',
+	[215] = 'tushonka',
+	[216] = 'tushonka_opened',
+	[217] = 'vodka',
+	[218] = 'vodka2',
+	[219] = 'vodka2_2',
+	[220] = 'vodka2_2_use',
+	[221] = 'vodka2_3',
+	[222] = 'vodka2_3_use',
+	[223] = 'vodka2_use',
+	[224] = 'vodka_2',
+	[225] = 'vodka_2_use',
+	[226] = 'vodka_3',
+	[227] = 'vodka_3_use',
+	[228] = 'vodka_quality',
+	[229] = 'vodka_quality_2',
+	[230] = 'vodka_quality_2_use',
+	[231] = 'vodka_quality_3',
+	[232] = 'vodka_quality_3_use',
+	[233] = 'vodka_quality_use',
+	[234] = 'vodka_script',
+	[235] = 'vodka_use',
+	[236] = 'water_drink',
+	[237] = 'water_drink_use',
+	[238] = 'yadylin'
+
+}
+
+{
+
+	[1] = 'adrenalin',
+	[2] = 'adrenalin_use',
+	[3] = 'akvatab',
+	[4] = 'akvatab_2',
+	[5] = 'akvatab_2_use',
+	[6] = 'akvatab_3',
+	[7] = 'akvatab_3_use',
+	[8] = 'akvatab_use',
+	[9] = 'analgetic',
+	[10] = 'antibio_chlor',
+	[11] = 'antibio_sulfad',
+	[12] = 'antibio_sulfad_1',
+	[13] = 'antibio_sulfad_2',
+	[14] = 'antiemetic',
+	[15] = 'antiemetic_1',
+	[16] = 'antirad',
+	[17] = 'antirad_cystamine',
+	[18] = 'antirad_kalium',
+	[19] = 'antirad_kalium_1',
+	[20] = 'antirad_kalium_1_use',
+	[21] = 'antirad_kalium_2',
+	[22] = 'antirad_kalium_2_use',
+	[23] = 'antirad_kalium_3',
+	[24] = 'antirad_kalium_3_use',
+	[25] = 'antirad_kalium_use',
+	[26] = 'antirad_use',
+	[27] = 'bandage',
+	[28] = 'bandage_use',
+	[29] = 'beans',
+	[30] = 'beans_opened',
+	[31] = 'beer',
+	[32] = 'beer_use',
+	[33] = 'bottle_metal',
+	[34] = 'bottle_metal_2',
+	[35] = 'bottle_metal_2_use',
+	[36] = 'bottle_metal_3',
+	[37] = 'bottle_metal_3_use',
+	[38] = 'bottle_metal_use',
+	[39] = 'bread',
+	[40] = 'breadold',
+	[41] = 'caffeine',
+	[42] = 'caffeine_2',
+	[43] = 'caffeine_2_use',
+	[44] = 'caffeine_3',
+	[45] = 'caffeine_3_use',
+	[46] = 'caffeine_4',
+	[47] = 'caffeine_4_use',
+	[48] = 'caffeine_5',
+	[49] = 'caffeine_5_use',
+	[50] = 'caffeine_use',
+	[51] = 'chili',
+	[52] = 'chili_opened',
+	[53] = 'chocolate',
+	[54] = 'chocolate_p',
+	[55] = 'cigar',
+	[56] = 'cigar1',
+	[57] = 'cigar1_2',
+	[58] = 'cigar1_2_smoke',
+	[59] = 'cigar1_3',
+	[60] = 'cigar1_3_smoke',
+	[61] = 'cigar1_smoke',
+	[62] = 'cigar2',
+	[63] = 'cigar2_2',
+	[64] = 'cigar2_2_smoke',
+	[65] = 'cigar2_3',
+	[66] = 'cigar2_3_smoke',
+	[67] = 'cigar2_smoke',
+	[68] = 'cigar3',
+	[69] = 'cigar3_2',
+	[70] = 'cigar3_2_smoke',
+	[71] = 'cigar3_3',
+	[72] = 'cigar3_3_smoke',
+	[73] = 'cigar3_smoke',
+	[74] = 'cigar_smoke',
+	[75] = 'cigarettes',
+	[76] = 'cigarettes_2',
+	[77] = 'cigarettes_2_smoke',
+	[78] = 'cigarettes_3',
+	[79] = 'cigarettes_3_smoke',
+	[80] = 'cigarettes_lucky',
+	[81] = 'cigarettes_lucky_2',
+	[82] = 'cigarettes_lucky_2_smoke',
+	[83] = 'cigarettes_lucky_3',
+	[84] = 'cigarettes_lucky_3_smoke',
+	[85] = 'cigarettes_lucky_smoke',
+	[86] = 'cigarettes_russian',
+	[87] = 'cigarettes_russian_2',
+	[88] = 'cigarettes_russian_2_smoke',
+	[89] = 'cigarettes_russian_3',
+	[90] = 'cigarettes_russian_3_smoke',
+	[91] = 'cigarettes_russian_smoke',
+	[92] = 'cigarettes_smoke',
+	[93] = 'cocaine',
+	[94] = 'cocaine_use',
+	[95] = 'conserva',
+	[96] = 'conserva_opened',
+	[97] = 'corn',
+	[98] = 'corn_opened',
+	[99] = 'drink_crow',
+	[100] = 'drink_crow_use',
+	[101] = 'drug_anabiotic',
+	[102] = 'drug_antidot',
+	[103] = 'drug_antidot_2',
+	[104] = 'drug_antidot_3',
+	[105] = 'drug_booster',
+	[106] = 'drug_booster_use',
+	[107] = 'drug_coagulant',
+	[108] = 'drug_coagulant_2',
+	[109] = 'drug_coagulant_3',
+	[110] = 'drug_coagulant_4',
+	[111] = 'drug_coagulant_5',
+	[112] = 'drug_psy_blockade',
+	[113] = 'drug_psy_blockade_2',
+	[114] = 'drug_psy_blockade_2_use',
+	[115] = 'drug_psy_blockade_3',
+	[116] = 'drug_psy_blockade_3_use',
+	[117] = 'drug_psy_blockade_4',
+	[118] = 'drug_psy_blockade_4_use',
+	[119] = 'drug_psy_blockade_5',
+	[120] = 'drug_psy_blockade_5_use',
+	[121] = 'drug_psy_blockade_use',
+	[122] = 'drug_radioprotector',
+	[123] = 'drug_radioprotector_2',
+	[124] = 'drug_sleepingpills',
+	[125] = 'drug_sleepingpills_2',
+	[126] = 'drug_sleepingpills_3',
+	[127] = 'drug_sleepingpills_4',
+	[128] = 'drug_sleepingpills_5',
+	[129] = 'energy_drink',
+	[130] = 'energy_drink_use',
+	[131] = 'flask',
+	[132] = 'flask_2',
+	[133] = 'flask_2_use',
+	[134] = 'flask_3',
+	[135] = 'flask_3_use',
+	[136] = 'flask_use',
+	[137] = 'glucose',
+	[138] = 'glucose_s',
+	[139] = 'hand_rolling_tobacco',
+	[140] = 'hand_rolling_tobacco_2',
+	[141] = 'hand_rolling_tobacco_2_smoke',
+	[142] = 'hand_rolling_tobacco_3',
+	[143] = 'hand_rolling_tobacco_3_smoke',
+	[144] = 'hand_rolling_tobacco_smoke',
+	[145] = 'jgut',
+	[146] = 'jgut_use',
+	[147] = 'joint',
+	[148] = 'joint_smoke',
+	[149] = 'kolbasa',
+	[150] = 'marijuana',
+	[151] = 'marijuana_smoke',
+	[152] = 'medkit',
+	[153] = 'medkit_ai1',
+	[154] = 'medkit_ai2',
+	[155] = 'medkit_ai3',
+	[156] = 'medkit_army',
+	[157] = 'medkit_scientic',
+	[158] = 'medkit_script',
+	[159] = 'mineral_water',
+	[160] = 'mineral_water_2',
+	[161] = 'mineral_water_2_use',
+	[162] = 'mineral_water_3',
+	[163] = 'mineral_water_3_use',
+	[164] = 'mineral_water_use',
+	[165] = 'mint',
+	[166] = 'mint_2',
+	[167] = 'mint_2_use',
+	[168] = 'mint_3',
+	[169] = 'mint_3_use',
+	[170] = 'mint_use',
+	[171] = 'morphine',
+	[172] = 'mre',
+	[173] = 'mre_2',
+	[174] = 'mre_3',
+	[175] = 'nuts',
+	[176] = 'protein',
+	[177] = 'raisins',
+	[178] = 'ration_ru',
+	[179] = 'ration_ru_2',
+	[180] = 'ration_ru_3',
+	[181] = 'ration_ru_4',
+	[182] = 'ration_ru_5',
+	[183] = 'ration_ru_6',
+	[184] = 'ration_ru_7',
+	[185] = 'ration_ukr',
+	[186] = 'ration_ukr_2',
+	[187] = 'ration_ukr_3',
+	[188] = 'ration_ukr_4',
+	[189] = 'ration_ukr_5',
+	[190] = 'ration_ukr_6',
+	[191] = 'rebirth',
+	[192] = 'rebirth_use',
+	[193] = 'salicidic_acid',
+	[194] = 'salmon',
+	[195] = 'sausage',
+	[196] = 'stimpack',
+	[197] = 'stimpack_army',
+	[198] = 'stimpack_scientic',
+	[199] = 'survival_kit',
+	[200] = 'tea',
+	[201] = 'tea_2',
+	[202] = 'tea_2_use',
+	[203] = 'tea_3',
+	[204] = 'tea_3_use',
+	[205] = 'tea_use',
+	[206] = 'tetanus',
+	[207] = 'tobacco',
+	[208] = 'tobacco2_smoke',
+	[209] = 'tobacco3_smoke',
+	[210] = 'tobacco_2',
+	[211] = 'tobacco_3',
+	[212] = 'tobacco_smoke',
+	[213] = 'tomato',
+	[214] = 'tomato_opened',
+	[215] = 'tushonka',
+	[216] = 'tushonka_opened',
+	[217] = 'vodka',
+	[218] = 'vodka2',
+	[219] = 'vodka2_2',
+	[220] = 'vodka2_2_use',
+	[221] = 'vodka2_3',
+	[222] = 'vodka2_3_use',
+	[223] = 'vodka2_use',
+	[224] = 'vodka_2',
+	[225] = 'vodka_2_use',
+	[226] = 'vodka_3',
+	[227] = 'vodka_3_use',
+	[228] = 'vodka_quality',
+	[229] = 'vodka_quality_2',
+	[230] = 'vodka_quality_2_use',
+	[231] = 'vodka_quality_3',
+	[232] = 'vodka_quality_3_use',
+	[233] = 'vodka_quality_use',
+	[234] = 'vodka_script',
+	[235] = 'vodka_use',
+	[236] = 'water_drink',
+	[237] = 'water_drink_use',
+	[238] = 'yadylin'
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_tiski32262'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_tiski32262'
+	}
+
+}
+
+-- On Load
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_tiski32262'
+	}
+
+}
+
+-- On Remove Unused
+{
+
+	["bar_awr_tiski_01"] =
+	{
+		[1] = 'bar_visitors_stalker_mechanic',
+		[2] = '-3.14',
+		[3] = 'alive'
+	},
+	["wpn_data"] =
+	{
+	},
+	["compare_name"] =
+	{
+		["bar_awr_tiski_01"] = 'awr_tiski32262'
+	}
+
+}
+
