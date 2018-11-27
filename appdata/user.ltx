@@ -59,8 +59,15 @@ bind quick_use_4 kF4
 bind quick_save kF5
 bind quick_load kF9
 bind custom6 kSCROLL
+bind_sec llookout mouse5
+bind_sec rlookout mouse4
 bind_sec show_detector kZ
 bind_sec inventory kTAB
+bind_sec custom1 kNUMPAD0
+bind_sec custom2 kNUMPAD1
+bind_sec custom3 kNUMPAD5
+bind_sec custom4 kNUMPAD2
+bind_sec custom5 kNUMPAD3
 cam_inert 0.
 cam_slide_inert 0.25
 cl_cod_pickup_mode 1
@@ -234,9 +241,9 @@ r__tf_aniso 16
 r__use_precompiled_shaders 0
 r__wallmark_ttl 60.
 renderer renderer_r3
-rs_c_brightness 1.1
-rs_c_contrast 1.1
-rs_c_gamma 1.1
+rs_c_brightness 1.
+rs_c_contrast 1.
+rs_c_gamma 1.
 rs_cam_pos off
 rs_fullscreen on
 rs_refresh_60hz on
@@ -244,9 +251,10 @@ rs_skeleton_update 32
 rs_stats off
 rs_v_sync on
 rs_vis_distance 1.5
-slot_1 bandage
+slot_0 bandage
+slot_1 medkit
 slot_2 stimpack
-slot_3 geiger_dead
+slot_3 itm_actor_backpack
 snd_acceleration on
 snd_cache_size 32
 snd_device OpenAL Soft
