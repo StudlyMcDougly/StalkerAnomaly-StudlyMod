@@ -6,7 +6,7 @@ Requires:<br/>
 [S.T.A.L.K.E.R.: Anomaly — Version 1.4 (Ver: 9/9/2018)](https://www.moddb.com/mods/stalker-anomaly/downloads)<br/>
 
 ## Updates
-*11/26/20188<br/>
+*11/26/2018*<br/>
 Added English_Voices_Addon_CoC_1.5 - Anomaly Compatible <br/>
 <br/>
 *11/25/2018*<br/>
